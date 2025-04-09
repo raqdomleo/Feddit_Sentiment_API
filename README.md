@@ -1,30 +1,116 @@
-# Introduction
-The `docker-compose.yml` file provides access to `Feddit` which is a fake reddit API built to complete the Allianz challenge. 
 
-# How-to-run
-1. Please make sure you have docker installed.
-2. To run `Feddit` API locally in the terminal, replace `<path-to-docker-compose.yml>` by the actual path of the given `docker-compose.yml` file in `docker compose -f <path-to-docker-compose.yml> up -d`. It should be available in [http://0.0.0.0:8080](http://0.0.0.0:8080). 
-3. To stop `Feddit` API in the terminal,  replace `<path-to-docker-compose.yml>` by the actual path of the given `docker-compose.yml` file in `docker compose -f <path-to-docker-compose.yml> down`.
+# Allianz Technical Challenge - Sentiment Analysis Microservice
 
-# API Specification
-Please visit either [http://0.0.0.0:8080/docs](http://0.0.0.0:8080/docs) or [http://0.0.0.0:8080/redoc](http://0.0.0.0:8080/redoc) for the documentation of available endpoints and examples of the responses.
-There are 3 subfeddits available. For each subfeddit there are more than 20,000 comments, that is why we use pagination in the JSON response with the following parameters:
+This project is a technical challenge for Allianz Services. The goal is to build a microservice that consumes the Feddit API (a fake Reddit-like API), performs sentiment analysis on comments using TextBlob, and exposes an API to query the processed data.
 
-+ `skip` which is the number of comments to be skipped for each query
-+ `limit` which is the max returned number of comments in a JSON response.
+---
 
-# Data Schemas
-## Comment
+## Project Structure
 
-+ **id**: unique identifier of the comment.
-+ **username**: user who made/wrote the comment.
-+ **text**: content of the comment in free text format.
-+ **created_at**: timestamp in unix epoch time indicating when the comment was made/wrote.
+```
+├── app/                # FastAPI application
+│   ├── main.py        # API endpoints
+│   ├── models.py      # Data models
+│   ├── services.py    # Sentiment analysis logic
+│   └── config.py      # Configuration settings
+│
+├── tests/              # Unit tests
+│
+├── Dockerfile          # Docker configuration for the microservice
+├── docker-compose.yml  # Docker configuration to run Feddit API
+├── requirements.txt    # Python dependencies
+├── .github/workflows/  # CI/CD with GitHub Actions
+├── README.md           # Project documentation
+└── .env.example        # Environment variables example
+```
 
-## Subfeddit
-+ **id**: unique identifier of the subfeddit
-+ **username**: user who started the subfeddit.
-+ **title**: topic of the subfeddit.
-+ **description**: short description of the subfeddit.
-+ **comments**: comments under the subfeddit.
+---
 
+## How to Run Locally
+
+1. Clone this repository.
+
+2. Install Docker and Docker Compose.
+
+3. Start the Feddit API locally:
+```bash
+docker compose -f docker-compose.yml up -d
+```
+
+4. Run the FastAPI microservice:
+```bash
+docker build -t sentiment-service .
+docker run -d -p 8000:8000 --env-file .env sentiment-service
+```
+
+5. Access the API:
+- Swagger UI: http://localhost:8000/docs
+- Redoc: http://localhost:8000/redoc
+
+---
+
+## API Features
+
+- List comments with sentiment analysis.
+- Filter comments by date range.
+- Sort comments by sentiment polarity.
+- Get average sentiment for a given subfeddit.
+
+---
+
+## Environment Variables
+
+Copy `.env.example` to `.env` and configure:
+
+```
+API_URL=http://feddit:8080
+LIMIT=100
+SKIP=0
+```
+
+---
+
+## Run Tests
+
+```bash
+pytest tests/
+```
+
+---
+
+## CI/CD with GitHub Actions
+
+This project uses GitHub Actions to:
+- Run tests on every push.
+- Lint the code with flake8.
+- Check Docker build.
+
+---
+
+## Feddit API Reference
+
+The Feddit API documentation is available at:
+- http://0.0.0.0:8080/docs
+- http://0.0.0.0:8080/redoc
+
+---
+
+## Sentiment Analysis
+
+The sentiment polarity is computed using TextBlob:
+
+| Polarity Value        | Interpretation        |
+|----------------------|-----------------------|
+| -1 to -0.1           | Negative              |
+| -0.1 to 0.1          | Neutral               |
+| 0.1 to 1             | Positive              |
+
+---
+
+## Requirements
+
+- Python 3.10
+- Docker & Docker Compose
+- FastAPI
+- TextBlob
+- PostgreSQL (Feddit internal)

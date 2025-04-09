@@ -4,3 +4,4 @@ requests
 textblob
 pydantic
 pytest
+pandas
