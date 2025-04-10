@@ -1,0 +1,501 @@
+id,username,text,created_at,clean_text,sentiment
+33787,user_56,Well done! Good work.,1622980141,well done good work,0.7
+33788,user_57,Well done! Luckily you did it.,1622983741,well done luckily you did it,0.3333333333333333
+33789,user_58,Well done! Proud of you.,1622987341,well done proud of you,0.8
+33790,user_59,Well done! Enjoy!,1622990941,well done enjoy,0.4
+33791,user_60,Looks decent. It looks great!,1622994541,looks decent it looks great,0.48333333333333334
+33792,user_61,Looks decent. Love it.,1622998141,looks decent love it,0.3333333333333333
+33793,user_62,Looks decent. Awesome.,1623001741,looks decent awesome,0.5833333333333334
+33794,user_63,Looks decent. Well done!,1623005341,looks decent well done,0.16666666666666666
+33795,user_64,Looks decent. Looks decent.,1623008941,looks decent looks decent,0.16666666666666666
+33731,user_0,It looks great!,1622778541,it looks great,0.8
+33732,user_1,Love it.,1622782141,love it,0.5
+33733,user_2,Awesome.,1622785741,awesome,1.0
+33734,user_3,Well done!,1622789341,well done,0.0
+33735,user_4,Looks decent.,1622792941,looks decent,0.16666666666666666
+33736,user_5,What you did was right.,1622796541,what you did was right,0.2857142857142857
+33737,user_6,Thumbs up.,1622800141,thumbs up,0.0
+33738,user_7,Like it a lot!,1622803741,like it a lot,0.0
+33739,user_8,Good work.,1622807341,good work,0.7
+33740,user_9,Luckily you did it.,1622810941,luckily you did it,0.3333333333333333
+33741,user_10,Proud of you.,1622814541,proud of you,0.8
+33742,user_11,Enjoy!,1622818141,enjoy,0.4
+33743,user_12,It looks great! It looks great!,1622821741,it looks great it looks great,0.8
+33744,user_13,It looks great! Love it.,1622825341,it looks great love it,0.65
+33745,user_14,It looks great! Awesome.,1622828941,it looks great awesome,0.9
+33746,user_15,It looks great! Well done!,1622832541,it looks great well done,0.8
+33747,user_16,It looks great! Looks decent.,1622836141,it looks great looks decent,0.48333333333333334
+33748,user_17,It looks great! What you did was right.,1622839741,it looks great what you did was right,0.5428571428571429
+33749,user_18,It looks great! Thumbs up.,1622843341,it looks great thumbs up,0.8
+33750,user_19,It looks great! Like it a lot!,1622846941,it looks great like it a lot,0.8
+33751,user_20,It looks great! Good work.,1622850541,it looks great good work,0.75
+33752,user_21,It looks great! Luckily you did it.,1622854141,it looks great luckily you did it,0.5666666666666667
+33753,user_22,It looks great! Proud of you.,1622857741,it looks great proud of you,0.8
+33754,user_23,It looks great! Enjoy!,1622861341,it looks great enjoy,0.6000000000000001
+33755,user_24,Love it. It looks great!,1622864941,love it it looks great,0.65
+33756,user_25,Love it. Love it.,1622868541,love it love it,0.5
+33757,user_26,Love it. Awesome.,1622872141,love it awesome,0.75
+33758,user_27,Love it. Well done!,1622875741,love it well done,0.5
+33759,user_28,Love it. Looks decent.,1622879341,love it looks decent,0.3333333333333333
+33760,user_29,Love it. What you did was right.,1622882941,love it what you did was right,0.39285714285714285
+33761,user_30,Love it. Thumbs up.,1622886541,love it thumbs up,0.5
+33762,user_31,Love it. Like it a lot!,1622890141,love it like it a lot,0.5
+33763,user_32,Love it. Good work.,1622893741,love it good work,0.6
+33764,user_33,Love it. Luckily you did it.,1622897341,love it luckily you did it,0.41666666666666663
+33765,user_34,Love it. Proud of you.,1622900941,love it proud of you,0.65
+33766,user_35,Love it. Enjoy!,1622904541,love it enjoy,0.45
+33767,user_36,Awesome. It looks great!,1622908141,awesome it looks great,0.9
+33768,user_37,Awesome. Love it.,1622911741,awesome love it,0.75
+33769,user_38,Awesome. Awesome.,1622915341,awesome awesome,1.0
+33770,user_39,Awesome. Well done!,1622918941,awesome well done,1.0
+33771,user_40,Awesome. Looks decent.,1622922541,awesome looks decent,0.5833333333333334
+33772,user_41,Awesome. What you did was right.,1622926141,awesome what you did was right,0.6428571428571428
+33773,user_42,Awesome. Thumbs up.,1622929741,awesome thumbs up,1.0
+33774,user_43,Awesome. Like it a lot!,1622933341,awesome like it a lot,1.0
+33775,user_44,Awesome. Good work.,1622936941,awesome good work,0.85
+33776,user_45,Awesome. Luckily you did it.,1622940541,awesome luckily you did it,0.6666666666666666
+33777,user_46,Awesome. Proud of you.,1622944141,awesome proud of you,0.9
+33778,user_47,Awesome. Enjoy!,1622947741,awesome enjoy,0.7
+33779,user_48,Well done! It looks great!,1622951341,well done it looks great,0.8
+33780,user_49,Well done! Love it.,1622954941,well done love it,0.5
+33781,user_50,Well done! Awesome.,1622958541,well done awesome,1.0
+33782,user_51,Well done! Well done!,1622962141,well done well done,0.0
+33783,user_52,Well done! Looks decent.,1622965741,well done looks decent,0.16666666666666666
+33784,user_53,Well done! What you did was right.,1622969341,well done what you did was right,0.2857142857142857
+33785,user_54,Well done! Thumbs up.,1622972941,well done thumbs up,0.0
+33786,user_55,Well done! Like it a lot!,1622976541,well done like it a lot,0.0
+33796,user_65,Looks decent. What you did was right.,1623012541,looks decent what you did was right,0.22619047619047616
+33797,user_66,Looks decent. Thumbs up.,1623016141,looks decent thumbs up,0.16666666666666666
+33798,user_67,Looks decent. Like it a lot!,1623019741,looks decent like it a lot,0.16666666666666666
+33799,user_68,Looks decent. Good work.,1623023341,looks decent good work,0.4333333333333333
+33800,user_69,Looks decent. Luckily you did it.,1623026941,looks decent luckily you did it,0.25
+33801,user_70,Looks decent. Proud of you.,1623030541,looks decent proud of you,0.48333333333333334
+33802,user_71,Looks decent. Enjoy!,1623034141,looks decent enjoy,0.2833333333333333
+33803,user_72,What you did was right. It looks great!,1623037741,what you did was right it looks great,0.5428571428571429
+33804,user_73,What you did was right. Love it.,1623041341,what you did was right love it,0.39285714285714285
+33805,user_74,What you did was right. Awesome.,1623044941,what you did was right awesome,0.6428571428571428
+33806,user_75,What you did was right. Well done!,1623048541,what you did was right well done,0.2857142857142857
+33807,user_76,What you did was right. Looks decent.,1623052141,what you did was right looks decent,0.22619047619047616
+33808,user_77,What you did was right. What you did was right.,1623055741,what you did was right what you did was right,0.2857142857142857
+33809,user_78,What you did was right. Thumbs up.,1623059341,what you did was right thumbs up,0.2857142857142857
+33810,user_79,What you did was right. Like it a lot!,1623062941,what you did was right like it a lot,0.2857142857142857
+33811,user_80,What you did was right. Good work.,1623066541,what you did was right good work,0.4928571428571428
+33812,user_81,What you did was right. Luckily you did it.,1623070141,what you did was right luckily you did it,0.30952380952380953
+33813,user_82,What you did was right. Proud of you.,1623073741,what you did was right proud of you,0.5428571428571429
+33814,user_83,What you did was right. Enjoy!,1623077341,what you did was right enjoy,0.34285714285714286
+33815,user_84,Thumbs up. It looks great!,1623080941,thumbs up it looks great,0.8
+33816,user_85,Thumbs up. Love it.,1623084541,thumbs up love it,0.5
+33817,user_86,Thumbs up. Awesome.,1623088141,thumbs up awesome,1.0
+33818,user_87,Thumbs up. Well done!,1623091741,thumbs up well done,0.0
+33819,user_88,Thumbs up. Looks decent.,1623095341,thumbs up looks decent,0.16666666666666666
+33820,user_89,Thumbs up. What you did was right.,1623098941,thumbs up what you did was right,0.2857142857142857
+33821,user_90,Thumbs up. Thumbs up.,1623102541,thumbs up thumbs up,0.0
+33822,user_91,Thumbs up. Like it a lot!,1623106141,thumbs up like it a lot,0.0
+33823,user_92,Thumbs up. Good work.,1623109741,thumbs up good work,0.7
+33824,user_93,Thumbs up. Luckily you did it.,1623113341,thumbs up luckily you did it,0.3333333333333333
+33825,user_94,Thumbs up. Proud of you.,1623116941,thumbs up proud of you,0.8
+33826,user_95,Thumbs up. Enjoy!,1623120541,thumbs up enjoy,0.4
+33827,user_96,Like it a lot! It looks great!,1623124141,like it a lot it looks great,0.8
+33828,user_97,Like it a lot! Love it.,1623127741,like it a lot love it,0.5
+33829,user_98,Like it a lot! Awesome.,1623131341,like it a lot awesome,1.0
+33830,user_99,Like it a lot! Well done!,1623134941,like it a lot well done,0.0
+33831,user_100,Like it a lot! Looks decent.,1623138541,like it a lot looks decent,0.16666666666666666
+33832,user_101,Like it a lot! What you did was right.,1623142141,like it a lot what you did was right,0.2857142857142857
+33833,user_102,Like it a lot! Thumbs up.,1623145741,like it a lot thumbs up,0.0
+33834,user_103,Like it a lot! Like it a lot!,1623149341,like it a lot like it a lot,0.0
+33835,user_104,Like it a lot! Good work.,1623152941,like it a lot good work,0.7
+33836,user_105,Like it a lot! Luckily you did it.,1623156541,like it a lot luckily you did it,0.3333333333333333
+33837,user_106,Like it a lot! Proud of you.,1623160141,like it a lot proud of you,0.8
+33838,user_107,Like it a lot! Enjoy!,1623163741,like it a lot enjoy,0.4
+33839,user_108,Good work. It looks great!,1623167341,good work it looks great,0.75
+33840,user_109,Good work. Love it.,1623170941,good work love it,0.6
+33841,user_110,Good work. Awesome.,1623174541,good work awesome,0.85
+33842,user_111,Good work. Well done!,1623178141,good work well done,0.7
+33843,user_112,Good work. Looks decent.,1623181741,good work looks decent,0.4333333333333333
+33844,user_113,Good work. What you did was right.,1623185341,good work what you did was right,0.4928571428571428
+33845,user_114,Good work. Thumbs up.,1623188941,good work thumbs up,0.7
+33846,user_115,Good work. Like it a lot!,1623192541,good work like it a lot,0.7
+33847,user_116,Good work. Good work.,1623196141,good work good work,0.7
+33848,user_117,Good work. Luckily you did it.,1623199741,good work luckily you did it,0.5166666666666666
+33849,user_118,Good work. Proud of you.,1623203341,good work proud of you,0.75
+33850,user_119,Good work. Enjoy!,1623206941,good work enjoy,0.55
+33851,user_120,Luckily you did it. It looks great!,1623210541,luckily you did it it looks great,0.5666666666666667
+33852,user_121,Luckily you did it. Love it.,1623214141,luckily you did it love it,0.41666666666666663
+33853,user_122,Luckily you did it. Awesome.,1623217741,luckily you did it awesome,0.6666666666666666
+33854,user_123,Luckily you did it. Well done!,1623221341,luckily you did it well done,0.3333333333333333
+33855,user_124,Luckily you did it. Looks decent.,1623224941,luckily you did it looks decent,0.25
+33856,user_125,Luckily you did it. What you did was right.,1623228541,luckily you did it what you did was right,0.30952380952380953
+33857,user_126,Luckily you did it. Thumbs up.,1623232141,luckily you did it thumbs up,0.3333333333333333
+33858,user_127,Luckily you did it. Like it a lot!,1623235741,luckily you did it like it a lot,0.3333333333333333
+33859,user_128,Luckily you did it. Good work.,1623239341,luckily you did it good work,0.5166666666666666
+33860,user_129,Luckily you did it. Luckily you did it.,1623242941,luckily you did it luckily you did it,0.3333333333333333
+33861,user_130,Luckily you did it. Proud of you.,1623246541,luckily you did it proud of you,0.5666666666666667
+33862,user_131,Luckily you did it. Enjoy!,1623250141,luckily you did it enjoy,0.3666666666666667
+33863,user_132,Proud of you. It looks great!,1623253741,proud of you it looks great,0.8
+33864,user_133,Proud of you. Love it.,1623257341,proud of you love it,0.65
+33865,user_134,Proud of you. Awesome.,1623260941,proud of you awesome,0.9
+33866,user_135,Proud of you. Well done!,1623264541,proud of you well done,0.8
+33867,user_136,Proud of you. Looks decent.,1623268141,proud of you looks decent,0.48333333333333334
+33868,user_137,Proud of you. What you did was right.,1623271741,proud of you what you did was right,0.5428571428571429
+33869,user_138,Proud of you. Thumbs up.,1623275341,proud of you thumbs up,0.8
+33870,user_139,Proud of you. Like it a lot!,1623278941,proud of you like it a lot,0.8
+33871,user_140,Proud of you. Good work.,1623282541,proud of you good work,0.75
+33872,user_141,Proud of you. Luckily you did it.,1623286141,proud of you luckily you did it,0.5666666666666667
+33873,user_142,Proud of you. Proud of you.,1623289741,proud of you proud of you,0.8
+33874,user_143,Proud of you. Enjoy!,1623293341,proud of you enjoy,0.6000000000000001
+33875,user_144,Enjoy! It looks great!,1623296941,enjoy it looks great,0.6000000000000001
+33876,user_145,Enjoy! Love it.,1623300541,enjoy love it,0.45
+33877,user_146,Enjoy! Awesome.,1623304141,enjoy awesome,0.7
+33878,user_147,Enjoy! Well done!,1623307741,enjoy well done,0.4
+33879,user_148,Enjoy! Looks decent.,1623311341,enjoy looks decent,0.2833333333333333
+33880,user_149,Enjoy! What you did was right.,1623314941,enjoy what you did was right,0.34285714285714286
+33881,user_150,Enjoy! Thumbs up.,1623318541,enjoy thumbs up,0.4
+33882,user_151,Enjoy! Like it a lot!,1623322141,enjoy like it a lot,0.4
+33883,user_152,Enjoy! Good work.,1623325741,enjoy good work,0.55
+33884,user_153,Enjoy! Luckily you did it.,1623329341,enjoy luckily you did it,0.3666666666666667
+33885,user_154,Enjoy! Proud of you.,1623332941,enjoy proud of you,0.6000000000000001
+33886,user_155,Enjoy! Enjoy!,1623336541,enjoy enjoy,0.4
+33887,user_156,It looks great! It looks great! It looks great!,1623340141,it looks great it looks great it looks great,0.8000000000000002
+33888,user_157,It looks great! It looks great! Love it.,1623343741,it looks great it looks great love it,0.7000000000000001
+33889,user_158,It looks great! It looks great! Awesome.,1623347341,it looks great it looks great awesome,0.8666666666666667
+33890,user_159,It looks great! It looks great! Well done!,1623350941,it looks great it looks great well done,0.8
+33891,user_160,It looks great! It looks great! Looks decent.,1623354541,it looks great it looks great looks decent,0.5888888888888889
+33892,user_161,It looks great! It looks great! What you did was right.,1623358141,it looks great it looks great what you did was right,0.6285714285714286
+33893,user_162,It looks great! It looks great! Thumbs up.,1623361741,it looks great it looks great thumbs up,0.8
+33894,user_163,It looks great! It looks great! Like it a lot!,1623365341,it looks great it looks great like it a lot,0.8
+33895,user_164,It looks great! It looks great! Good work.,1623368941,it looks great it looks great good work,0.7666666666666666
+33896,user_165,It looks great! It looks great! Luckily you did it.,1623372541,it looks great it looks great luckily you did it,0.6444444444444445
+33897,user_166,It looks great! It looks great! Proud of you.,1623376141,it looks great it looks great proud of you,0.8000000000000002
+33898,user_167,It looks great! It looks great! Enjoy!,1623379741,it looks great it looks great enjoy,0.6666666666666666
+33899,user_168,It looks great! Love it. It looks great!,1623383341,it looks great love it it looks great,0.7000000000000001
+33900,user_169,It looks great! Love it. Love it.,1623386941,it looks great love it love it,0.6
+33901,user_170,It looks great! Love it. Awesome.,1623390541,it looks great love it awesome,0.7666666666666666
+33902,user_171,It looks great! Love it. Well done!,1623394141,it looks great love it well done,0.65
+33903,user_172,It looks great! Love it. Looks decent.,1623397741,it looks great love it looks decent,0.48888888888888893
+33904,user_173,It looks great! Love it. What you did was right.,1623401341,it looks great love it what you did was right,0.5285714285714286
+33905,user_174,It looks great! Love it. Thumbs up.,1623404941,it looks great love it thumbs up,0.65
+33906,user_175,It looks great! Love it. Like it a lot!,1623408541,it looks great love it like it a lot,0.65
+33907,user_176,It looks great! Love it. Good work.,1623412141,it looks great love it good work,0.6666666666666666
+33908,user_177,It looks great! Love it. Luckily you did it.,1623415741,it looks great love it luckily you did it,0.5444444444444444
+33909,user_178,It looks great! Love it. Proud of you.,1623419341,it looks great love it proud of you,0.7000000000000001
+33910,user_179,It looks great! Love it. Enjoy!,1623422941,it looks great love it enjoy,0.5666666666666668
+33911,user_180,It looks great! Awesome. It looks great!,1623426541,it looks great awesome it looks great,0.8666666666666667
+33912,user_181,It looks great! Awesome. Love it.,1623430141,it looks great awesome love it,0.7666666666666666
+33913,user_182,It looks great! Awesome. Awesome.,1623433741,it looks great awesome awesome,0.9333333333333332
+33914,user_183,It looks great! Awesome. Well done!,1623437341,it looks great awesome well done,0.9
+33915,user_184,It looks great! Awesome. Looks decent.,1623440941,it looks great awesome looks decent,0.6555555555555556
+33916,user_185,It looks great! Awesome. What you did was right.,1623444541,it looks great awesome what you did was right,0.6952380952380953
+33917,user_186,It looks great! Awesome. Thumbs up.,1623448141,it looks great awesome thumbs up,0.9
+33918,user_187,It looks great! Awesome. Like it a lot!,1623451741,it looks great awesome like it a lot,0.9
+33919,user_188,It looks great! Awesome. Good work.,1623455341,it looks great awesome good work,0.8333333333333334
+33920,user_189,It looks great! Awesome. Luckily you did it.,1623458941,it looks great awesome luckily you did it,0.7111111111111111
+33921,user_190,It looks great! Awesome. Proud of you.,1623462541,it looks great awesome proud of you,0.8666666666666667
+33922,user_191,It looks great! Awesome. Enjoy!,1623466141,it looks great awesome enjoy,0.7333333333333334
+33923,user_192,It looks great! Well done! It looks great!,1623469741,it looks great well done it looks great,0.8
+33924,user_193,It looks great! Well done! Love it.,1623473341,it looks great well done love it,0.65
+33925,user_194,It looks great! Well done! Awesome.,1623476941,it looks great well done awesome,0.9
+33926,user_195,It looks great! Well done! Well done!,1623480541,it looks great well done well done,0.8
+33927,user_196,It looks great! Well done! Looks decent.,1623484141,it looks great well done looks decent,0.48333333333333334
+33928,user_197,It looks great! Well done! What you did was right.,1623487741,it looks great well done what you did was right,0.5428571428571429
+33929,user_198,It looks great! Well done! Thumbs up.,1623491341,it looks great well done thumbs up,0.8
+33930,user_199,It looks great! Well done! Like it a lot!,1623494941,it looks great well done like it a lot,0.8
+33931,user_200,It looks great! Well done! Good work.,1623498541,it looks great well done good work,0.75
+33932,user_201,It looks great! Well done! Luckily you did it.,1623502141,it looks great well done luckily you did it,0.5666666666666667
+33933,user_202,It looks great! Well done! Proud of you.,1623505741,it looks great well done proud of you,0.8
+33934,user_203,It looks great! Well done! Enjoy!,1623509341,it looks great well done enjoy,0.6000000000000001
+33935,user_204,It looks great! Looks decent. It looks great!,1623512941,it looks great looks decent it looks great,0.5888888888888889
+33936,user_205,It looks great! Looks decent. Love it.,1623516541,it looks great looks decent love it,0.48888888888888893
+33937,user_206,It looks great! Looks decent. Awesome.,1623520141,it looks great looks decent awesome,0.6555555555555556
+33938,user_207,It looks great! Looks decent. Well done!,1623523741,it looks great looks decent well done,0.48333333333333334
+33939,user_208,It looks great! Looks decent. Looks decent.,1623527341,it looks great looks decent looks decent,0.37777777777777777
+33940,user_209,It looks great! Looks decent. What you did was right.,1623530941,it looks great looks decent what you did was right,0.4174603174603175
+33941,user_210,It looks great! Looks decent. Thumbs up.,1623534541,it looks great looks decent thumbs up,0.48333333333333334
+33942,user_211,It looks great! Looks decent. Like it a lot!,1623538141,it looks great looks decent like it a lot,0.48333333333333334
+33943,user_212,It looks great! Looks decent. Good work.,1623541741,it looks great looks decent good work,0.5555555555555555
+33944,user_213,It looks great! Looks decent. Luckily you did it.,1623545341,it looks great looks decent luckily you did it,0.43333333333333335
+33945,user_214,It looks great! Looks decent. Proud of you.,1623548941,it looks great looks decent proud of you,0.5888888888888889
+33946,user_215,It looks great! Looks decent. Enjoy!,1623552541,it looks great looks decent enjoy,0.45555555555555555
+33947,user_216,It looks great! What you did was right. It looks great!,1623556141,it looks great what you did was right it looks great,0.6285714285714287
+33948,user_217,It looks great! What you did was right. Love it.,1623559741,it looks great what you did was right love it,0.5285714285714286
+33949,user_218,It looks great! What you did was right. Awesome.,1623563341,it looks great what you did was right awesome,0.6952380952380953
+33950,user_219,It looks great! What you did was right. Well done!,1623566941,it looks great what you did was right well done,0.5428571428571429
+33951,user_220,It looks great! What you did was right. Looks decent.,1623570541,it looks great what you did was right looks decent,0.41746031746031753
+33952,user_221,It looks great! What you did was right. What you did was right.,1623574141,it looks great what you did was right what you did was right,0.45714285714285713
+33953,user_222,It looks great! What you did was right. Thumbs up.,1623577741,it looks great what you did was right thumbs up,0.5428571428571429
+33954,user_223,It looks great! What you did was right. Like it a lot!,1623581341,it looks great what you did was right like it a lot,0.5428571428571429
+33955,user_224,It looks great! What you did was right. Good work.,1623584941,it looks great what you did was right good work,0.5952380952380952
+33956,user_225,It looks great! What you did was right. Luckily you did it.,1623588541,it looks great what you did was right luckily you did it,0.47301587301587306
+33957,user_226,It looks great! What you did was right. Proud of you.,1623592141,it looks great what you did was right proud of you,0.6285714285714287
+33958,user_227,It looks great! What you did was right. Enjoy!,1623595741,it looks great what you did was right enjoy,0.49523809523809526
+33959,user_228,It looks great! Thumbs up. It looks great!,1623599341,it looks great thumbs up it looks great,0.8
+33960,user_229,It looks great! Thumbs up. Love it.,1623602941,it looks great thumbs up love it,0.65
+33961,user_230,It looks great! Thumbs up. Awesome.,1623606541,it looks great thumbs up awesome,0.9
+33962,user_231,It looks great! Thumbs up. Well done!,1623610141,it looks great thumbs up well done,0.8
+33963,user_232,It looks great! Thumbs up. Looks decent.,1623613741,it looks great thumbs up looks decent,0.48333333333333334
+33964,user_233,It looks great! Thumbs up. What you did was right.,1623617341,it looks great thumbs up what you did was right,0.5428571428571429
+33965,user_234,It looks great! Thumbs up. Thumbs up.,1623620941,it looks great thumbs up thumbs up,0.8
+33966,user_235,It looks great! Thumbs up. Like it a lot!,1623624541,it looks great thumbs up like it a lot,0.8
+33967,user_236,It looks great! Thumbs up. Good work.,1623628141,it looks great thumbs up good work,0.75
+33968,user_237,It looks great! Thumbs up. Luckily you did it.,1623631741,it looks great thumbs up luckily you did it,0.5666666666666667
+33969,user_238,It looks great! Thumbs up. Proud of you.,1623635341,it looks great thumbs up proud of you,0.8
+33970,user_239,It looks great! Thumbs up. Enjoy!,1623638941,it looks great thumbs up enjoy,0.6000000000000001
+33971,user_240,It looks great! Like it a lot! It looks great!,1623642541,it looks great like it a lot it looks great,0.8
+33972,user_241,It looks great! Like it a lot! Love it.,1623646141,it looks great like it a lot love it,0.65
+33973,user_242,It looks great! Like it a lot! Awesome.,1623649741,it looks great like it a lot awesome,0.9
+33974,user_243,It looks great! Like it a lot! Well done!,1623653341,it looks great like it a lot well done,0.8
+33975,user_244,It looks great! Like it a lot! Looks decent.,1623656941,it looks great like it a lot looks decent,0.48333333333333334
+33976,user_245,It looks great! Like it a lot! What you did was right.,1623660541,it looks great like it a lot what you did was right,0.5428571428571429
+33977,user_246,It looks great! Like it a lot! Thumbs up.,1623664141,it looks great like it a lot thumbs up,0.8
+33978,user_247,It looks great! Like it a lot! Like it a lot!,1623667741,it looks great like it a lot like it a lot,0.8
+33979,user_248,It looks great! Like it a lot! Good work.,1623671341,it looks great like it a lot good work,0.75
+33980,user_249,It looks great! Like it a lot! Luckily you did it.,1623674941,it looks great like it a lot luckily you did it,0.5666666666666667
+33981,user_250,It looks great! Like it a lot! Proud of you.,1623678541,it looks great like it a lot proud of you,0.8
+33982,user_251,It looks great! Like it a lot! Enjoy!,1623682141,it looks great like it a lot enjoy,0.6000000000000001
+33983,user_252,It looks great! Good work. It looks great!,1623685741,it looks great good work it looks great,0.7666666666666666
+33984,user_253,It looks great! Good work. Love it.,1623689341,it looks great good work love it,0.6666666666666666
+33985,user_254,It looks great! Good work. Awesome.,1623692941,it looks great good work awesome,0.8333333333333334
+33986,user_255,It looks great! Good work. Well done!,1623696541,it looks great good work well done,0.75
+33987,user_256,It looks great! Good work. Looks decent.,1623700141,it looks great good work looks decent,0.5555555555555556
+33988,user_257,It looks great! Good work. What you did was right.,1623703741,it looks great good work what you did was right,0.5952380952380952
+33989,user_258,It looks great! Good work. Thumbs up.,1623707341,it looks great good work thumbs up,0.75
+33990,user_259,It looks great! Good work. Like it a lot!,1623710941,it looks great good work like it a lot,0.75
+33991,user_260,It looks great! Good work. Good work.,1623714541,it looks great good work good work,0.7333333333333334
+33992,user_261,It looks great! Good work. Luckily you did it.,1623718141,it looks great good work luckily you did it,0.611111111111111
+33993,user_262,It looks great! Good work. Proud of you.,1623721741,it looks great good work proud of you,0.7666666666666666
+33994,user_263,It looks great! Good work. Enjoy!,1623725341,it looks great good work enjoy,0.6333333333333333
+33995,user_264,It looks great! Luckily you did it. It looks great!,1623728941,it looks great luckily you did it it looks great,0.6444444444444445
+33996,user_265,It looks great! Luckily you did it. Love it.,1623732541,it looks great luckily you did it love it,0.5444444444444444
+33997,user_266,It looks great! Luckily you did it. Awesome.,1623736141,it looks great luckily you did it awesome,0.7111111111111111
+33998,user_267,It looks great! Luckily you did it. Well done!,1623739741,it looks great luckily you did it well done,0.5666666666666667
+33999,user_268,It looks great! Luckily you did it. Looks decent.,1623743341,it looks great luckily you did it looks decent,0.43333333333333335
+34000,user_269,It looks great! Luckily you did it. What you did was right.,1623746941,it looks great luckily you did it what you did was right,0.47301587301587295
+34001,user_270,It looks great! Luckily you did it. Thumbs up.,1623750541,it looks great luckily you did it thumbs up,0.5666666666666667
+34002,user_271,It looks great! Luckily you did it. Like it a lot!,1623754141,it looks great luckily you did it like it a lot,0.5666666666666667
+34003,user_272,It looks great! Luckily you did it. Good work.,1623757741,it looks great luckily you did it good work,0.611111111111111
+34004,user_273,It looks great! Luckily you did it. Luckily you did it.,1623761341,it looks great luckily you did it luckily you did it,0.4888888888888889
+34005,user_274,It looks great! Luckily you did it. Proud of you.,1623764941,it looks great luckily you did it proud of you,0.6444444444444445
+34006,user_275,It looks great! Luckily you did it. Enjoy!,1623768541,it looks great luckily you did it enjoy,0.5111111111111111
+34007,user_276,It looks great! Proud of you. It looks great!,1623772141,it looks great proud of you it looks great,0.8000000000000002
+34008,user_277,It looks great! Proud of you. Love it.,1623775741,it looks great proud of you love it,0.7000000000000001
+34009,user_278,It looks great! Proud of you. Awesome.,1623779341,it looks great proud of you awesome,0.8666666666666667
+34010,user_279,It looks great! Proud of you. Well done!,1623782941,it looks great proud of you well done,0.8
+34011,user_280,It looks great! Proud of you. Looks decent.,1623786541,it looks great proud of you looks decent,0.5888888888888889
+34012,user_281,It looks great! Proud of you. What you did was right.,1623790141,it looks great proud of you what you did was right,0.6285714285714286
+34013,user_282,It looks great! Proud of you. Thumbs up.,1623793741,it looks great proud of you thumbs up,0.8
+34014,user_283,It looks great! Proud of you. Like it a lot!,1623797341,it looks great proud of you like it a lot,0.8
+34015,user_284,It looks great! Proud of you. Good work.,1623800941,it looks great proud of you good work,0.7666666666666666
+34016,user_285,It looks great! Proud of you. Luckily you did it.,1623804541,it looks great proud of you luckily you did it,0.6444444444444445
+34017,user_286,It looks great! Proud of you. Proud of you.,1623808141,it looks great proud of you proud of you,0.8000000000000002
+34018,user_287,It looks great! Proud of you. Enjoy!,1623811741,it looks great proud of you enjoy,0.6666666666666666
+34019,user_288,It looks great! Enjoy! It looks great!,1623815341,it looks great enjoy it looks great,0.6666666666666666
+34020,user_289,It looks great! Enjoy! Love it.,1623818941,it looks great enjoy love it,0.5666666666666668
+34021,user_290,It looks great! Enjoy! Awesome.,1623822541,it looks great enjoy awesome,0.7333333333333334
+34022,user_291,It looks great! Enjoy! Well done!,1623826141,it looks great enjoy well done,0.6000000000000001
+34023,user_292,It looks great! Enjoy! Looks decent.,1623829741,it looks great enjoy looks decent,0.45555555555555566
+34024,user_293,It looks great! Enjoy! What you did was right.,1623833341,it looks great enjoy what you did was right,0.49523809523809526
+34025,user_294,It looks great! Enjoy! Thumbs up.,1623836941,it looks great enjoy thumbs up,0.6000000000000001
+34026,user_295,It looks great! Enjoy! Like it a lot!,1623840541,it looks great enjoy like it a lot,0.6000000000000001
+34027,user_296,It looks great! Enjoy! Good work.,1623844141,it looks great enjoy good work,0.6333333333333334
+34028,user_297,It looks great! Enjoy! Luckily you did it.,1623847741,it looks great enjoy luckily you did it,0.5111111111111112
+34029,user_298,It looks great! Enjoy! Proud of you.,1623851341,it looks great enjoy proud of you,0.6666666666666666
+34030,user_299,It looks great! Enjoy! Enjoy!,1623854941,it looks great enjoy enjoy,0.5333333333333333
+34031,user_300,Love it. It looks great! It looks great!,1623858541,love it it looks great it looks great,0.7000000000000001
+34032,user_301,Love it. It looks great! Love it.,1623862141,love it it looks great love it,0.6
+34033,user_302,Love it. It looks great! Awesome.,1623865741,love it it looks great awesome,0.7666666666666666
+34034,user_303,Love it. It looks great! Well done!,1623869341,love it it looks great well done,0.65
+34035,user_304,Love it. It looks great! Looks decent.,1623872941,love it it looks great looks decent,0.48888888888888893
+34036,user_305,Love it. It looks great! What you did was right.,1623876541,love it it looks great what you did was right,0.5285714285714286
+34037,user_306,Love it. It looks great! Thumbs up.,1623880141,love it it looks great thumbs up,0.65
+34038,user_307,Love it. It looks great! Like it a lot!,1623883741,love it it looks great like it a lot,0.65
+34039,user_308,Love it. It looks great! Good work.,1623887341,love it it looks great good work,0.6666666666666666
+34040,user_309,Love it. It looks great! Luckily you did it.,1623890941,love it it looks great luckily you did it,0.5444444444444444
+34041,user_310,Love it. It looks great! Proud of you.,1623894541,love it it looks great proud of you,0.7000000000000001
+34042,user_311,Love it. It looks great! Enjoy!,1623898141,love it it looks great enjoy,0.5666666666666668
+34043,user_312,Love it. Love it. It looks great!,1623901741,love it love it it looks great,0.6
+34044,user_313,Love it. Love it. Love it.,1623905341,love it love it love it,0.5
+34045,user_314,Love it. Love it. Awesome.,1623908941,love it love it awesome,0.6666666666666666
+34046,user_315,Love it. Love it. Well done!,1623912541,love it love it well done,0.5
+34047,user_316,Love it. Love it. Looks decent.,1623916141,love it love it looks decent,0.3888888888888889
+34048,user_317,Love it. Love it. What you did was right.,1623919741,love it love it what you did was right,0.42857142857142855
+34049,user_318,Love it. Love it. Thumbs up.,1623923341,love it love it thumbs up,0.5
+34050,user_319,Love it. Love it. Like it a lot!,1623926941,love it love it like it a lot,0.5
+34051,user_320,Love it. Love it. Good work.,1623930541,love it love it good work,0.5666666666666667
+34052,user_321,Love it. Love it. Luckily you did it.,1623934141,love it love it luckily you did it,0.4444444444444444
+34053,user_322,Love it. Love it. Proud of you.,1623937741,love it love it proud of you,0.6
+34054,user_323,Love it. Love it. Enjoy!,1623941341,love it love it enjoy,0.4666666666666666
+34055,user_324,Love it. Awesome. It looks great!,1623944941,love it awesome it looks great,0.7666666666666666
+34056,user_325,Love it. Awesome. Love it.,1623948541,love it awesome love it,0.6666666666666666
+34057,user_326,Love it. Awesome. Awesome.,1623952141,love it awesome awesome,0.8333333333333334
+34058,user_327,Love it. Awesome. Well done!,1623955741,love it awesome well done,0.75
+34059,user_328,Love it. Awesome. Looks decent.,1623959341,love it awesome looks decent,0.5555555555555556
+34060,user_329,Love it. Awesome. What you did was right.,1623962941,love it awesome what you did was right,0.5952380952380952
+34061,user_330,Love it. Awesome. Thumbs up.,1623966541,love it awesome thumbs up,0.75
+34062,user_331,Love it. Awesome. Like it a lot!,1623970141,love it awesome like it a lot,0.75
+34063,user_332,Love it. Awesome. Good work.,1623973741,love it awesome good work,0.7333333333333334
+34064,user_333,Love it. Awesome. Luckily you did it.,1623977341,love it awesome luckily you did it,0.611111111111111
+34065,user_334,Love it. Awesome. Proud of you.,1623980941,love it awesome proud of you,0.7666666666666666
+34066,user_335,Love it. Awesome. Enjoy!,1623984541,love it awesome enjoy,0.6333333333333333
+34067,user_336,Love it. Well done! It looks great!,1623988141,love it well done it looks great,0.65
+34068,user_337,Love it. Well done! Love it.,1623991741,love it well done love it,0.5
+34069,user_338,Love it. Well done! Awesome.,1623995341,love it well done awesome,0.75
+34070,user_339,Love it. Well done! Well done!,1623998941,love it well done well done,0.5
+34071,user_340,Love it. Well done! Looks decent.,1624002541,love it well done looks decent,0.3333333333333333
+34072,user_341,Love it. Well done! What you did was right.,1624006141,love it well done what you did was right,0.39285714285714285
+34073,user_342,Love it. Well done! Thumbs up.,1624009741,love it well done thumbs up,0.5
+34074,user_343,Love it. Well done! Like it a lot!,1624013341,love it well done like it a lot,0.5
+34075,user_344,Love it. Well done! Good work.,1624016941,love it well done good work,0.6
+34076,user_345,Love it. Well done! Luckily you did it.,1624020541,love it well done luckily you did it,0.41666666666666663
+34077,user_346,Love it. Well done! Proud of you.,1624024141,love it well done proud of you,0.65
+34078,user_347,Love it. Well done! Enjoy!,1624027741,love it well done enjoy,0.45
+34079,user_348,Love it. Looks decent. It looks great!,1624031341,love it looks decent it looks great,0.48888888888888893
+34080,user_349,Love it. Looks decent. Love it.,1624034941,love it looks decent love it,0.38888888888888884
+34081,user_350,Love it. Looks decent. Awesome.,1624038541,love it looks decent awesome,0.5555555555555555
+34082,user_351,Love it. Looks decent. Well done!,1624042141,love it looks decent well done,0.3333333333333333
+34083,user_352,Love it. Looks decent. Looks decent.,1624045741,love it looks decent looks decent,0.27777777777777773
+34084,user_353,Love it. Looks decent. What you did was right.,1624049341,love it looks decent what you did was right,0.31746031746031744
+34085,user_354,Love it. Looks decent. Thumbs up.,1624052941,love it looks decent thumbs up,0.3333333333333333
+34086,user_355,Love it. Looks decent. Like it a lot!,1624056541,love it looks decent like it a lot,0.3333333333333333
+34087,user_356,Love it. Looks decent. Good work.,1624060141,love it looks decent good work,0.45555555555555555
+34088,user_357,Love it. Looks decent. Luckily you did it.,1624063741,love it looks decent luckily you did it,0.3333333333333333
+34089,user_358,Love it. Looks decent. Proud of you.,1624067341,love it looks decent proud of you,0.48888888888888893
+34090,user_359,Love it. Looks decent. Enjoy!,1624070941,love it looks decent enjoy,0.35555555555555557
+34091,user_360,Love it. What you did was right. It looks great!,1624074541,love it what you did was right it looks great,0.5285714285714286
+34092,user_361,Love it. What you did was right. Love it.,1624078141,love it what you did was right love it,0.42857142857142855
+34093,user_362,Love it. What you did was right. Awesome.,1624081741,love it what you did was right awesome,0.5952380952380952
+34094,user_363,Love it. What you did was right. Well done!,1624085341,love it what you did was right well done,0.39285714285714285
+34095,user_364,Love it. What you did was right. Looks decent.,1624088941,love it what you did was right looks decent,0.31746031746031744
+34096,user_365,Love it. What you did was right. What you did was right.,1624092541,love it what you did was right what you did was right,0.35714285714285715
+34097,user_366,Love it. What you did was right. Thumbs up.,1624096141,love it what you did was right thumbs up,0.39285714285714285
+34098,user_367,Love it. What you did was right. Like it a lot!,1624099741,love it what you did was right like it a lot,0.39285714285714285
+34099,user_368,Love it. What you did was right. Good work.,1624103341,love it what you did was right good work,0.49523809523809526
+34100,user_369,Love it. What you did was right. Luckily you did it.,1624106941,love it what you did was right luckily you did it,0.373015873015873
+34101,user_370,Love it. What you did was right. Proud of you.,1624110541,love it what you did was right proud of you,0.5285714285714286
+34102,user_371,Love it. What you did was right. Enjoy!,1624114141,love it what you did was right enjoy,0.3952380952380952
+34103,user_372,Love it. Thumbs up. It looks great!,1624117741,love it thumbs up it looks great,0.65
+34104,user_373,Love it. Thumbs up. Love it.,1624121341,love it thumbs up love it,0.5
+34105,user_374,Love it. Thumbs up. Awesome.,1624124941,love it thumbs up awesome,0.75
+34106,user_375,Love it. Thumbs up. Well done!,1624128541,love it thumbs up well done,0.5
+34107,user_376,Love it. Thumbs up. Looks decent.,1624132141,love it thumbs up looks decent,0.3333333333333333
+34108,user_377,Love it. Thumbs up. What you did was right.,1624135741,love it thumbs up what you did was right,0.39285714285714285
+34109,user_378,Love it. Thumbs up. Thumbs up.,1624139341,love it thumbs up thumbs up,0.5
+34110,user_379,Love it. Thumbs up. Like it a lot!,1624142941,love it thumbs up like it a lot,0.5
+34111,user_380,Love it. Thumbs up. Good work.,1624146541,love it thumbs up good work,0.6
+34112,user_381,Love it. Thumbs up. Luckily you did it.,1624150141,love it thumbs up luckily you did it,0.41666666666666663
+34113,user_382,Love it. Thumbs up. Proud of you.,1624153741,love it thumbs up proud of you,0.65
+34114,user_383,Love it. Thumbs up. Enjoy!,1624157341,love it thumbs up enjoy,0.45
+34115,user_384,Love it. Like it a lot! It looks great!,1624160941,love it like it a lot it looks great,0.65
+34116,user_385,Love it. Like it a lot! Love it.,1624164541,love it like it a lot love it,0.5
+34117,user_386,Love it. Like it a lot! Awesome.,1624168141,love it like it a lot awesome,0.75
+34118,user_387,Love it. Like it a lot! Well done!,1624171741,love it like it a lot well done,0.5
+34119,user_388,Love it. Like it a lot! Looks decent.,1624175341,love it like it a lot looks decent,0.3333333333333333
+34120,user_389,Love it. Like it a lot! What you did was right.,1624178941,love it like it a lot what you did was right,0.39285714285714285
+34121,user_390,Love it. Like it a lot! Thumbs up.,1624182541,love it like it a lot thumbs up,0.5
+34122,user_391,Love it. Like it a lot! Like it a lot!,1624186141,love it like it a lot like it a lot,0.5
+34123,user_392,Love it. Like it a lot! Good work.,1624189741,love it like it a lot good work,0.6
+34124,user_393,Love it. Like it a lot! Luckily you did it.,1624193341,love it like it a lot luckily you did it,0.41666666666666663
+34125,user_394,Love it. Like it a lot! Proud of you.,1624196941,love it like it a lot proud of you,0.65
+34126,user_395,Love it. Like it a lot! Enjoy!,1624200541,love it like it a lot enjoy,0.45
+34127,user_396,Love it. Good work. It looks great!,1624204141,love it good work it looks great,0.6666666666666666
+34128,user_397,Love it. Good work. Love it.,1624207741,love it good work love it,0.5666666666666667
+34129,user_398,Love it. Good work. Awesome.,1624211341,love it good work awesome,0.7333333333333334
+34130,user_399,Love it. Good work. Well done!,1624214941,love it good work well done,0.6
+34131,user_400,Love it. Good work. Looks decent.,1624218541,love it good work looks decent,0.45555555555555555
+34132,user_401,Love it. Good work. What you did was right.,1624222141,love it good work what you did was right,0.49523809523809526
+34133,user_402,Love it. Good work. Thumbs up.,1624225741,love it good work thumbs up,0.6
+34134,user_403,Love it. Good work. Like it a lot!,1624229341,love it good work like it a lot,0.6
+34135,user_404,Love it. Good work. Good work.,1624232941,love it good work good work,0.6333333333333333
+34136,user_405,Love it. Good work. Luckily you did it.,1624236541,love it good work luckily you did it,0.5111111111111111
+34137,user_406,Love it. Good work. Proud of you.,1624240141,love it good work proud of you,0.6666666666666666
+34138,user_407,Love it. Good work. Enjoy!,1624243741,love it good work enjoy,0.5333333333333333
+34139,user_408,Love it. Luckily you did it. It looks great!,1624247341,love it luckily you did it it looks great,0.5444444444444444
+34140,user_409,Love it. Luckily you did it. Love it.,1624250941,love it luckily you did it love it,0.4444444444444444
+34141,user_410,Love it. Luckily you did it. Awesome.,1624254541,love it luckily you did it awesome,0.611111111111111
+34142,user_411,Love it. Luckily you did it. Well done!,1624258141,love it luckily you did it well done,0.41666666666666663
+34143,user_412,Love it. Luckily you did it. Looks decent.,1624261741,love it luckily you did it looks decent,0.3333333333333333
+34144,user_413,Love it. Luckily you did it. What you did was right.,1624265341,love it luckily you did it what you did was right,0.373015873015873
+34145,user_414,Love it. Luckily you did it. Thumbs up.,1624268941,love it luckily you did it thumbs up,0.41666666666666663
+34146,user_415,Love it. Luckily you did it. Like it a lot!,1624272541,love it luckily you did it like it a lot,0.41666666666666663
+34147,user_416,Love it. Luckily you did it. Good work.,1624276141,love it luckily you did it good work,0.5111111111111111
+34148,user_417,Love it. Luckily you did it. Luckily you did it.,1624279741,love it luckily you did it luckily you did it,0.38888888888888884
+34149,user_418,Love it. Luckily you did it. Proud of you.,1624283341,love it luckily you did it proud of you,0.5444444444444444
+34150,user_419,Love it. Luckily you did it. Enjoy!,1624286941,love it luckily you did it enjoy,0.41111111111111115
+34151,user_420,Love it. Proud of you. It looks great!,1624290541,love it proud of you it looks great,0.7000000000000001
+34152,user_421,Love it. Proud of you. Love it.,1624294141,love it proud of you love it,0.6
+34153,user_422,Love it. Proud of you. Awesome.,1624297741,love it proud of you awesome,0.7666666666666666
+34154,user_423,Love it. Proud of you. Well done!,1624301341,love it proud of you well done,0.65
+34155,user_424,Love it. Proud of you. Looks decent.,1624304941,love it proud of you looks decent,0.48888888888888893
+34156,user_425,Love it. Proud of you. What you did was right.,1624308541,love it proud of you what you did was right,0.5285714285714286
+34157,user_426,Love it. Proud of you. Thumbs up.,1624312141,love it proud of you thumbs up,0.65
+34158,user_427,Love it. Proud of you. Like it a lot!,1624315741,love it proud of you like it a lot,0.65
+34159,user_428,Love it. Proud of you. Good work.,1624319341,love it proud of you good work,0.6666666666666666
+34160,user_429,Love it. Proud of you. Luckily you did it.,1624322941,love it proud of you luckily you did it,0.5444444444444444
+34161,user_430,Love it. Proud of you. Proud of you.,1624326541,love it proud of you proud of you,0.7000000000000001
+34162,user_431,Love it. Proud of you. Enjoy!,1624330141,love it proud of you enjoy,0.5666666666666668
+34163,user_432,Love it. Enjoy! It looks great!,1624333741,love it enjoy it looks great,0.5666666666666668
+34164,user_433,Love it. Enjoy! Love it.,1624337341,love it enjoy love it,0.4666666666666666
+34165,user_434,Love it. Enjoy! Awesome.,1624340941,love it enjoy awesome,0.6333333333333333
+34166,user_435,Love it. Enjoy! Well done!,1624344541,love it enjoy well done,0.45
+34167,user_436,Love it. Enjoy! Looks decent.,1624348141,love it enjoy looks decent,0.35555555555555557
+34168,user_437,Love it. Enjoy! What you did was right.,1624351741,love it enjoy what you did was right,0.3952380952380952
+34169,user_438,Love it. Enjoy! Thumbs up.,1624355341,love it enjoy thumbs up,0.45
+34170,user_439,Love it. Enjoy! Like it a lot!,1624358941,love it enjoy like it a lot,0.45
+34171,user_440,Love it. Enjoy! Good work.,1624362541,love it enjoy good work,0.5333333333333333
+34172,user_441,Love it. Enjoy! Luckily you did it.,1624366141,love it enjoy luckily you did it,0.41111111111111115
+34173,user_442,Love it. Enjoy! Proud of you.,1624369741,love it enjoy proud of you,0.5666666666666668
+34174,user_443,Love it. Enjoy! Enjoy!,1624373341,love it enjoy enjoy,0.43333333333333335
+34175,user_444,Awesome. It looks great! It looks great!,1624376941,awesome it looks great it looks great,0.8666666666666667
+34176,user_445,Awesome. It looks great! Love it.,1624380541,awesome it looks great love it,0.7666666666666666
+34177,user_446,Awesome. It looks great! Awesome.,1624384141,awesome it looks great awesome,0.9333333333333332
+34178,user_447,Awesome. It looks great! Well done!,1624387741,awesome it looks great well done,0.9
+34179,user_448,Awesome. It looks great! Looks decent.,1624391341,awesome it looks great looks decent,0.6555555555555556
+34180,user_449,Awesome. It looks great! What you did was right.,1624394941,awesome it looks great what you did was right,0.6952380952380953
+34181,user_450,Awesome. It looks great! Thumbs up.,1624398541,awesome it looks great thumbs up,0.9
+34182,user_451,Awesome. It looks great! Like it a lot!,1624402141,awesome it looks great like it a lot,0.9
+34183,user_452,Awesome. It looks great! Good work.,1624405741,awesome it looks great good work,0.8333333333333334
+34184,user_453,Awesome. It looks great! Luckily you did it.,1624409341,awesome it looks great luckily you did it,0.7111111111111111
+34185,user_454,Awesome. It looks great! Proud of you.,1624412941,awesome it looks great proud of you,0.8666666666666667
+34186,user_455,Awesome. It looks great! Enjoy!,1624416541,awesome it looks great enjoy,0.7333333333333334
+34187,user_456,Awesome. Love it. It looks great!,1624420141,awesome love it it looks great,0.7666666666666666
+34188,user_457,Awesome. Love it. Love it.,1624423741,awesome love it love it,0.6666666666666666
+34189,user_458,Awesome. Love it. Awesome.,1624427341,awesome love it awesome,0.8333333333333334
+34190,user_459,Awesome. Love it. Well done!,1624430941,awesome love it well done,0.75
+34191,user_460,Awesome. Love it. Looks decent.,1624434541,awesome love it looks decent,0.5555555555555556
+34192,user_461,Awesome. Love it. What you did was right.,1624438141,awesome love it what you did was right,0.5952380952380952
+34193,user_462,Awesome. Love it. Thumbs up.,1624441741,awesome love it thumbs up,0.75
+34194,user_463,Awesome. Love it. Like it a lot!,1624445341,awesome love it like it a lot,0.75
+34195,user_464,Awesome. Love it. Good work.,1624448941,awesome love it good work,0.7333333333333334
+34196,user_465,Awesome. Love it. Luckily you did it.,1624452541,awesome love it luckily you did it,0.611111111111111
+34197,user_466,Awesome. Love it. Proud of you.,1624456141,awesome love it proud of you,0.7666666666666666
+34198,user_467,Awesome. Love it. Enjoy!,1624459741,awesome love it enjoy,0.6333333333333333
+34199,user_468,Awesome. Awesome. It looks great!,1624463341,awesome awesome it looks great,0.9333333333333332
+34200,user_469,Awesome. Awesome. Love it.,1624466941,awesome awesome love it,0.8333333333333334
+34201,user_470,Awesome. Awesome. Awesome.,1624470541,awesome awesome awesome,1.0
+34202,user_471,Awesome. Awesome. Well done!,1624474141,awesome awesome well done,1.0
+34203,user_472,Awesome. Awesome. Looks decent.,1624477741,awesome awesome looks decent,0.7222222222222222
+34204,user_473,Awesome. Awesome. What you did was right.,1624481341,awesome awesome what you did was right,0.7619047619047619
+34205,user_474,Awesome. Awesome. Thumbs up.,1624484941,awesome awesome thumbs up,1.0
+34206,user_475,Awesome. Awesome. Like it a lot!,1624488541,awesome awesome like it a lot,1.0
+34207,user_476,Awesome. Awesome. Good work.,1624492141,awesome awesome good work,0.9
+34208,user_477,Awesome. Awesome. Luckily you did it.,1624495741,awesome awesome luckily you did it,0.7777777777777778
+34209,user_478,Awesome. Awesome. Proud of you.,1624499341,awesome awesome proud of you,0.9333333333333332
+34210,user_479,Awesome. Awesome. Enjoy!,1624502941,awesome awesome enjoy,0.7999999999999999
+34211,user_480,Awesome. Well done! It looks great!,1624506541,awesome well done it looks great,0.9
+34212,user_481,Awesome. Well done! Love it.,1624510141,awesome well done love it,0.75
+34213,user_482,Awesome. Well done! Awesome.,1624513741,awesome well done awesome,1.0
+34214,user_483,Awesome. Well done! Well done!,1624517341,awesome well done well done,1.0
+34215,user_484,Awesome. Well done! Looks decent.,1624520941,awesome well done looks decent,0.5833333333333334
+34216,user_485,Awesome. Well done! What you did was right.,1624524541,awesome well done what you did was right,0.6428571428571428
+34217,user_486,Awesome. Well done! Thumbs up.,1624528141,awesome well done thumbs up,1.0
+34218,user_487,Awesome. Well done! Like it a lot!,1624531741,awesome well done like it a lot,1.0
+34219,user_488,Awesome. Well done! Good work.,1624535341,awesome well done good work,0.85
+34220,user_489,Awesome. Well done! Luckily you did it.,1624538941,awesome well done luckily you did it,0.6666666666666666
+34221,user_490,Awesome. Well done! Proud of you.,1624542541,awesome well done proud of you,0.9
+34222,user_491,Awesome. Well done! Enjoy!,1624546141,awesome well done enjoy,0.7
+34223,user_492,Awesome. Looks decent. It looks great!,1624549741,awesome looks decent it looks great,0.6555555555555556
+34224,user_493,Awesome. Looks decent. Love it.,1624553341,awesome looks decent love it,0.5555555555555556
+34225,user_494,Awesome. Looks decent. Awesome.,1624556941,awesome looks decent awesome,0.7222222222222223
+34226,user_495,Awesome. Looks decent. Well done!,1624560541,awesome looks decent well done,0.5833333333333334
+34227,user_496,Awesome. Looks decent. Looks decent.,1624564141,awesome looks decent looks decent,0.4444444444444445
+34228,user_497,Awesome. Looks decent. What you did was right.,1624567741,awesome looks decent what you did was right,0.4841269841269842
+34229,user_498,Awesome. Looks decent. Thumbs up.,1624571341,awesome looks decent thumbs up,0.5833333333333334
+34230,user_499,Awesome. Looks decent. Like it a lot!,1624574941,awesome looks decent like it a lot,0.5833333333333334
